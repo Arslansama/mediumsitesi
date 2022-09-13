@@ -1,0 +1,10 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid#414141;
+}
