@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <title>Medium</title>
+    <link rel="stylesheet" href="medium.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+  </head>
+  <body>
+    <div class="bg-yellow border-bottom-dark py-1 fixed-top">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light ">
+                <a class="navbar-brand" href="#"> <strong> Medium</strong></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                      </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Our Story <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Membership</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Write</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Sign in</a>
+                      </li>
+                      <li class="nav-item ml-4">
+                        <a class="nav-link btn btn-dark text-light" href="#">Get Started</a>
+                      </li>
+                    
+                
+                  </ul>
+                </div>
+              </nav>      
+        </div>
+    </div>
+    <div class="bg-yellow py-5 border-bottom-dark">
+        <div class="container mt-5">
+        <div class="row">
+            <div class="col-6 py-5">
+                <h2 class="display-2"><strong>Stay curious.</strong> </h2>
+                <h4 class="mb-5">Discover stories, thinking, and expertise <br> from writers on any topic.</h4>
+                <a href="#" class="btn btn-dark text-light">Start reading</a>
+            </div>
+            <div class="col-6">
+                <img src="https://picsum.photos/id/1005/367/267" alt="" class="rounded-circle float-right border border-warning">
+            </div>
+          </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 mb-2">
+                <h6 class="py-4"><i class="bi bi-airplane"></i> <small class="">TRENDING ON MEDIUM</small></h4>
+            </div>
+            <article class="col-sm-4">
+                <div class="row">
+                    <div class="col-1">
+                        <h6 class="text-black-50">01</h6>
+                    </div>
+                    <div class="col-11">
+                        <img src="https://picsum.photos/id/22/22/22" alt="" class="rounded-circle">
+                        <span class="small ml-1">Patrick Metzgein</span>
+                        <h6 class="mt-2"> <strong> Memo To All Housekeeping, Kitchen, and Dining Room Staff At Mar-A-Lago</strong></h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Aug 27 </li>
+                            <li class="list-inline-item small text-black-50">2 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul>
+                    </div>
+                </div>
+            </article>
+            <article class="col-sm-4">
+                <div class="row">
+                    <div class="col-1">
+                        <h6 class="text-black-50">02</h6>
+                    </div>
+                    <div class="col-11">
+                        <img src="https://picsum.photos/id/22/22/22" alt="" class="rounded-circle">
+                        <span class="small ml-1">Patrick Metzgein</span>
+                        <h6 class="mt-2"> <strong> Memo To All Housekeeping, Kitchen, and Dining Room Staff At Mar-A-Lago</strong></h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Aug 27 </li>
+                            <li class="list-inline-item small text-black-50">2 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul>
+                    </div>
+                </div>
+            </article>
+            <article class="col-sm-4">
+                <div class="row">
+                    <div class="col-1">
+                        <h6 class="text-black-50">03</h6>
+                    </div>
+                    <div class="col-11">
+                        <img src="https://picsum.photos/id/22/22/22" alt="" class="rounded-circle">
+                        <span class="small ml-1">Patrick Metzgein</span>
+                        <h6 class="mt-2"> <strong> Memo To All Housekeeping, Kitchen, and Dining Room Staff At Mar-A-Lago</strong></h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Aug 27 </li>
+                            <li class="list-inline-item small text-black-50">2 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul>
+                    </div>
+                </div>
+            </article>
+            <article class="col-sm-4">
+                <div class="row">
+                    <div class="col-1">
+                        <h6 class="text-black-50">04</h6>
+                    </div>
+                    <div class="col-11">
+                        <img src="https://picsum.photos/id/22/22/22" alt="" class="rounded-circle">
+                        <span class="small ml-1">Patrick Metzgein</span>
+                        <h6 class="mt-2"> <strong> Memo To All Housekeeping, Kitchen, and Dining Room Staff At Mar-A-Lago</strong></h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Aug 27 </li>
+                            <li class="list-inline-item small text-black-50">2 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul>
+                    </div>
+                </div>
+            </article>
+            <article class="col-sm-4">
+                <div class="row">
+                    <div class="col-1">
+                        <h6 class="text-black-50">05</h6>
+                    </div>
+                    <div class="col-11">
+                        <img src="https://picsum.photos/id/22/22/22" alt="" class="rounded-circle">
+                        <span class="small ml-1">Patrick Metzgein</span>
+                        <h6 class="mt-2"> <strong> Memo To All Housekeeping, Kitchen, and Dining Room Staff At Mar-A-Lago</strong></h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Aug 27 </li>
+                            <li class="list-inline-item small text-black-50">2 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul>
+                    </div>
+                </div>
+            </article>
+            <article class="col-sm-4">
+                <div class="row">
+                    <div class="col-1">
+                        <h6 class="text-black-50">06</h6>
+                    </div>
+                    <div class="col-11">
+                        <img src="https://picsum.photos/id/22/22/22" alt="" class="rounded-circle">
+                        <span class="small ml-1">Patrick Metzgein</span>
+                        <h6 class="mt-2"> <strong> Memo To All Housekeeping, Kitchen, and Dining Room Staff At Mar-A-Lago</strong></h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Aug 27 </li>
+                            <li class="list-inline-item small text-black-50">2 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul>
+                    </div>
+                </div>
+            </article>
+
+        </div>
+        <div class="row mt-4 border-top border-dark pt-5">
+            <section class="col-sm-8">
+                <article class="row mb-3">
+                    <div class="col-8">
+                        <img src="https://picsum.photos/id/33/22/22" alt="" class="rounded-circle">
+                        <span class="ml-1 lead">Quiet Quitting & Strategy</span>
+                        <h6 class="mt-2 text-black-50">The Humanity Imperative</h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Sep 12 </li>
+                            <li class="list-inline-item small text-black-50">8 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul> 
+                    </div>
+                    <div class="col-4">
+                        <img src="https://picsum.photos/id/222/188/188" alt="">
+                    </div>
+                   
+                </article>
+                <article class="row mb-3">
+                    <div class="col-8">
+                        <img src="https://picsum.photos/id/33/22/22" alt="" class="rounded-circle">
+                        <span class="ml-1 lead">Quiet Quitting & Strategy</span>
+                        <h6 class="mt-2 text-black-50">The Humanity Imperative</h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Sep 12 </li>
+                            <li class="list-inline-item small text-black-50">8 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul> 
+                    </div>
+                    <div class="col-4">
+                        <img src="https://picsum.photos/id/222/188/188" alt="">
+                    </div>
+                   
+                </article>
+                <article class="row">
+                    <div class="col-8">
+                        <img src="https://picsum.photos/id/33/22/22" alt="" class="rounded-circle">
+                        <span class="ml-1 lead">Quiet Quitting & Strategy</span>
+                        <h6 class="mt-2 text-black-50">The Humanity Imperative</h6>
+                        <ul class="list-inline">
+                            <li class="list-inline-item small text-black-50">Sep 12 </li>
+                            <li class="list-inline-item small text-black-50">8 min read</li>
+                            <li class="list-inline-item"><i class="bi bi-star-fill"></i></li>
+                          </ul> 
+                    </div>
+                    <div class="col-4">
+                        <img src="https://picsum.photos/id/222/188/188" alt="">
+                    </div>
+                   
+                </article>
+
+            </section>
+            <aside class="col-sm-4">
+                <p class="mt-4 small"> <strong>DISCOVER MORE OF WHAT MATTERS TO YOU</strong> </p>
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                    <li class="list-inline-item"><a href="#" class="btn  btn-sm btn-outline-secondary mb-2">Lorem.</a> </li>
+                
+
+                  </ul>
+
+            </aside>
+        </div>
+
+    </div> <!--son-->
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid#414141;
+}
